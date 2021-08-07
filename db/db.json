@@ -77,5 +77,30 @@
       "tipo": "Finalizado"
     }
   ],
-  "burgers": []
+  "burgers": [
+    {
+      "nome": "Arnon",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Salame",
+        "Cheddar"
+      ],
+      "status": "Solicitado",
+      "id": 1
+    },
+    {
+      "nome": "Daniel",
+      "carne": "Picanha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Tomate",
+        "Cheddar",
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 2
+    }
+  ]
 }
