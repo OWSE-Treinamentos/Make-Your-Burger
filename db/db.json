@@ -87,31 +87,8 @@
         "Salame",
         "Cheddar"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 1
-    },
-    {
-      "nome": "Daniel",
-      "carne": "Picanha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Tomate",
-        "Cheddar",
-        "Bacon"
-      ],
-      "status": "Solicitado",
-      "id": 2
-    },
-    {
-      "nome": "Gabriel",
-      "carne": "Veggie burger",
-      "pao": "Integral",
-      "opcionais": [
-        "Salame",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado",
-      "id": 3
     }
   ]
 }
