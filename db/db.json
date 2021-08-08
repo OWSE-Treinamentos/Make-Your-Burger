@@ -101,6 +101,17 @@
       ],
       "status": "Solicitado",
       "id": 2
+    },
+    {
+      "nome": "Gabriel",
+      "carne": "Veggie burger",
+      "pao": "Integral",
+      "opcionais": [
+        "Salame",
+        "Cebola roxa"
+      ],
+      "status": "Solicitado",
+      "id": 3
     }
   ]
 }
