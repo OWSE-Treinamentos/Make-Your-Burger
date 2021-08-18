@@ -89,6 +89,17 @@
       ],
       "status": "Em produção",
       "id": 1
+    },
+    {
+      "nome": "Indio",
+      "carne": "Alcatra",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Bacon",
+        "Salame"
+      ],
+      "status": "Solicitado",
+      "id": 2
     }
   ]
 }
