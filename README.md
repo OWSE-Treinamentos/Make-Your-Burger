@@ -1,4 +1,6 @@
-#Make Your Burger
+# Make Your Burger
+
+> Projeto para gerencimento de pedidos de uma lanchonete.
 
 ![Monte](./public/readme_img/monte.png)
 ![Pedidos](./public/readme_img/pedidos.png)
