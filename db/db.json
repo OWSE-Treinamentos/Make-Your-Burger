@@ -79,27 +79,16 @@
   ],
   "burgers": [
     {
-      "nome": "Arnon",
-      "carne": "Alcatra",
+      "nome": "Indio",
+      "carne": "Veggie burger",
       "pao": "3 Queijos",
       "opcionais": [
-        "Bacon",
-        "Salame",
+        "Cebola roxa",
+        "Tomate",
         "Cheddar"
       ],
-      "status": "Em produção",
-      "id": 1
-    },
-    {
-      "nome": "Indio",
-      "carne": "Alcatra",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Bacon",
-        "Salame"
-      ],
-      "status": "Em produção",
-      "id": 2
+      "status": "Solicitado",
+      "id": 3
     }
   ]
 }
